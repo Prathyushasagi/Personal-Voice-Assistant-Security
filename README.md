@@ -1,5 +1,5 @@
 # Personal-Voice-Assistant-Security
-As a researcher in the field of audio signal processing, I have worked on securing the acoustic channel of personal voice assistants, such as Alexa and Google Home, by developing an attack and mitigation framework.
+Securing the acoustic channel of personal voice assistants, such as Alexa and Google Home, by developing an attack and mitigation framework.
 
 Key Accomplishments:
 
